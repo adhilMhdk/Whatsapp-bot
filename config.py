@@ -1,0 +1,1 @@
+CHROME_PROFILE_PATH = "/home/adhil/.config/google-chrome/whatsBot"
